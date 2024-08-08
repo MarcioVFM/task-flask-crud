@@ -1,0 +1,6 @@
+-Oque e o Flask: é um framework para facilitar o desenvolvimento web
+-Framework: conjunto de biblioteca/ferramentas para um proposio especifico
+
+-Flask: simples e facilidade de uso, escolha comum para iniciar a usar pela sua facilidade
+
+-Instalacao: pip install Flask, no curso foi usado a versao 2.3.0
