@@ -1,3 +1,3 @@
 # task-flask-crud
 
-Esse repositorio foi criado para estudos de criacao de API em Flask 
+Uma API de um crud feito em FLASK, para entender como funciona o FLASK e começar o estudo de APIs
