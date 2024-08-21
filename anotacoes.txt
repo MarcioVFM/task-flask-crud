@@ -4,3 +4,5 @@
 -Flask: simples e facilidade de uso, escolha comum para iniciar a usar pela sua facilidade
 
 -Instalacao: pip install Flask, no curso foi usado a versao 2.3.0
+
+-CRUD: create, read, update and delete
